@@ -130,3 +130,9 @@ dmypy.json
 
 # Jupyter Notebook directories
 .virtual_documents
+
+# Text files
+*.txt
+
+# Jovian
+.jovianrc
